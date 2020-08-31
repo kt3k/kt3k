@@ -13,3 +13,5 @@ I've been lately learning the languages like Rust :crab:, Go, and OCaml :camel:.
 I have experience in development in the languages like Python :snake:, Ruby, PHP, Perl, Java :coffee:, Objective-C, C++, Kotlin, Groovy, ActionScript, etc in the past.
 
 I was an enthusiast of code golf :golfing: in the past and once was addicted in the golfing site [Anarchy Golf](http://golf.shinh.org/), which is still working. I created solutions in [so many languages](https://github.com/kt3k/anarchy-golf-old-solutions), but I don't remember most of them now.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kt3k)](https://github.com/ryo-ma/github-profile-trophy)
