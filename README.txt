@@ -1,4 +1,4 @@
-My name is Yoshiya Hinosawa. I'm a web developer in 🇯🇵 for about 10 years. I'm currently a partner of @seqsense, a robot 🤖 startup in :jp:.
+My name is Yoshiya Hinosawa. I've been a web engineer in 🇯🇵 for about 10 years. I specialize in frontend development.
 
 I'm a Deno 🦕 enthusiast in my spare time.
 
